@@ -1,9 +1,9 @@
-# Debian Jessie + Apache 2.4 + PHP 7.1
+# Ubuntu Latest + Apache 2.4 + PHP 7.2
 
 ###Development Image
 
 this is a simple image of docker that contains the typical build of a Web server that uses
-Apache 2.4 and PHP 7.1. It's based on Debian Jessie.
+Apache 2.4 and PHP 7.2 It's based on Ubuntu.
 
 **Go to the desired branch of the version of PHP you are searching.**
 
