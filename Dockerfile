@@ -1,6 +1,5 @@
 FROM debian:jessie
 
-# FOKED FROM MAINTAINER Ghislain GAUCHER <ghislain@qtf.lu>
 MAINTAINER Cesar Romero <cromero@digitalorigin.com>
 
 # phpize deps
