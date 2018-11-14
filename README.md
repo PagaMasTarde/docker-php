@@ -1,4 +1,4 @@
-# Ubuntu + Apache 2.4 + PHP (7.x)
+# Ubuntu + Apache 2.4 + PHP 7.0
 
 ###Development Image
 
