@@ -1,4 +1,4 @@
-# Ubuntu + Apache 2.4 + PHP (7.x)
+# Debian Jessie + Apache 2.4 + PHP 7.1
 
 ###Development Image
 

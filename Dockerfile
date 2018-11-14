@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM debian:jessie
 
 MAINTAINER Cesar Romero <cromero@digitalorigin.com>
 
