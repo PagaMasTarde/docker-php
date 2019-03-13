@@ -58,7 +58,7 @@ services:
     volumes:
       - "./:/var/www/project-name:rw" //Mount files to container
       - "./docker/vhost:/etc/apache2/sites-enabled" //link VHOST to apache
-    image: paylater/docker-php71:latest
+    image: pagantis/docker-php:7.1
     working_dir: /var/www/project-name
     environment:
         ENVIRONMENT: dev
